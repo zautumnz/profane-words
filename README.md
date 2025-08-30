@@ -2,8 +2,6 @@
 
 A semi-comprehensive list of profanity in English.
 
-[Donate](https://ko-fi.com/zacanger)
-
 ----
 
 *Warning* don't read the list if you're easily offended. I don't even know

@@ -4,21 +4,19 @@
   "typings": "index.d.ts",
   "version": "1.6.0",
   "author": {
-    "name": "Zac Anger",
-    "email": "zac@zacanger.com",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "WTFPL",
   "main": "index.js",
   "scripts": {
     "test": "node -e 'require(\".\")'"
   },
-  "homepage": "https://github.com/zacanger/profane-words#readme",
+  "homepage": "https://github.com/zautumnz/profane-words#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/profane-words.git"
+    "url": "https://github.com/zautumnz/profane-words.git"
   },
-  "bugs": "https://github.com/zacanger/profane-words/issues",
+  "bugs": "https://github.com/zautumnz/profane-words/issues",
   "keywords": [
     "profane-words",
     "profanity",
