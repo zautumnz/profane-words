@@ -2,6 +2,10 @@
 
 A semi-comprehensive list of profanity in English.
 
+See [better-profane-words](https://github.com/awdev1/better-profane-words) for
+an enhanced wordlist with categorization, intensity classification, and a JS
+API.
+
 ----
 
 *Warning* don't read the list if you're easily offended. I don't even know
